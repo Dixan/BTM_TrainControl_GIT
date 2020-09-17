@@ -16,5 +16,10 @@ namespace BTM_TrainControlCs
 		{
 			InitializeComponent();
 		}
+
+		private void btnAbout_Click(object sender, EventArgs e)
+		{
+
+		}
 	}
 }
